@@ -29,8 +29,8 @@ constitution/constitution-2001.md        Constitution (Conseil constitutionnel c
 constitution/<slug>.md                   constitutional laws found in the JO captures
 lois/<year>/loi-<number>.md              laws (year of the law's date)
 lois-organiques/<year>/loi-organique-<number>.md
-ordonnances/<year>/ordonnance-<number>.md
-decrets-lois/<year>/...                  decree-laws (if any)
+ordonnances/<year>/ordonnance-<number>.md   (none found in the captures)
+decrets-lois/<year>/...                  decree-laws (none found)
 ```
 
 Front matter: `identifier` = number of the text (e.g. `2013-10`); `date` = date in the title; `gazette` = JO issue
@@ -58,7 +58,7 @@ Requests to the Internet Archive were spaced by 2.5 s.
 
 * **The official JO website www.jo.gouv.sn does not answer** (connection time-outs) — everything except the
   Constitution comes from Internet Archive captures, so coverage is limited to what the Archive captured
-  (mostly texts published c. 2005–2016). Laws published after the last captures, and texts whose pages were never
+  (texts dated 2000–2018). Laws published after the last captures, and texts whose pages were never
   captured, are missing.
 * Decrees, arrêtés and other secondary texts of the JO (the vast majority of the ~10,000 captured pages) are not
   included.
