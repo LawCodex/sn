@@ -122,7 +122,7 @@ def main():
         info = index.get(str(aid))
         if info is None and "--unknown" in sys.argv:
             want.append((aid, orig, ts, None))  # unknown title: fetch, decide from page
-        elif KEEP.match(info["title"]):
+        elif info and KEEP.match(info["title"]):
             want.append((aid, orig, ts, info))
     print("articles to consider", len(want), "known-law", sum(1 for w in want if w[3]))
     for aid, orig, ts, info in sorted(want):
@@ -209,7 +209,7 @@ def convert(caps, index, want):
         if not nz:
             continue
         # first non-empty lines: ministry (upper case, optional) then title
-        title = info["title"] if info else None
+        title = T.norm(info["title"]) if info else None
         if not title:
             for x in nz[:4]:
                 if KEEP.match(x):
@@ -240,7 +240,8 @@ def convert(caps, index, want):
         if cat == "constitution":
             rel = "constitution/%s.md" % T.slug(title, 80)
         else:
-            rel = "%s/%s/%s.md" % (cat, year, T.slug(("%s-%s" % (typ.split("_")[0], ident)) if ident else title, 80))
+            pre = {"act": "loi", "organic_law": "loi-organique", "ordinance": "ordonnance", "decree_law": "decret-loi", "code": "code"}[typ]
+            rel = "%s/%s/%s.md" % (cat, year, T.slug(("%s-%s" % (pre, ident)) if ident else title, 80))
         if rel in used:
             if used[rel] == aid:
                 continue
@@ -251,7 +252,7 @@ def convert(caps, index, want):
                 "source": "http://www.jo.gouv.sn/spip.php?article%d" % aid,
                 "archived_source": WB.replace("id_", "") % (ts, orig),
                 "gazette": ("Journal officiel n° %s du %s" % jo) if jo else (info or {}).get("jo"),
-                "ministry": ministry.strip() or None,
+                "ministry": (ministry.strip() if not re.match(r"^(LOIS?|ORDONNANCES?|CODES?|LOI ORGANIQUE|LOIS ORGANIQUES|LOICONSTITUTIONNELLE|LOIORGANIQUE|LOISORGANIQUES)$", ministry.replace(" ", ""), re.I) else None) or None,
                 "retrieved": RETRIEVED}
         T.write_md(os.path.join(REPO, rel), meta, full_title, body)
         n_ok += 1

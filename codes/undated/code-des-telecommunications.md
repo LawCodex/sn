@@ -1,0 +1,930 @@
+---
+title: "Code des Télécommunications"
+type: code
+jurisdiction: sn
+language: fr
+status: unknown
+source: "http://www.jo.gouv.sn/spip.php?article37"
+archived_source: "https://web.archive.org/web/20120105012602/http://www.jo.gouv.sn/spip.php?article37"
+retrieved: 2026-10-13
+---
+
+# Code des Télécommunications
+
+LOI 2001-15 du 27 décembre 2001 PORTANT CODE DES TELECOMMUNICATIONS
+
+EXPOSE DES MOTIFS
+
+Le droit des télécommunications au Sénégal a toujours été marqué par l’exercice d’un monopole de l’Etat sur cet important secteur de l’économie nationale. La loi n° 72-39 du 26 mai 1972 relative aux télécommunications et celle n° 96-03 du 22 février 1996 portant code des télécommunications, reflètent amplement cette dynamique.
+
+Or, en ce début du 21è siècle, force est de constater que la communication est un enjeu majeur à l’ère de la numérisation des échanges entre les peuples et les nations de la planète. En effet, le mariage de l’informatique, de l’audiovisuel et des télécommunications a entraîné une révolution informationnelle, en même temps qu’une globalisation de notre société désormais obligée de fonctionner à l’universel.
+
+Ce nouvel environnement ne pouvait manquer d’influencer, au Sénégal comme partout ailleurs, le dispositif juridique qui organise le secteur des télécommunications. A cet égard, il a été défini une stratégie nationale fondée sur :
+
+la libéralisation immédiate des services à valeur ajoutée dans le cadre d’un régime de concurrence libre ;
+
+l’ouverture au privé du capital de la SONATEL depuis le 21 juillet 1997 pour lui permettre de mieux s’adapter au nouveau contexte de plus en plus concurrentiel ;
+
+l’opportunité donnée aux opérateurs privés, choisis après appel d’offre international, d’établir un réseau de radiotéléphonie publique terrestre ;
+
+l’effectivité du service universel sur l’étendue du territoire national, notamment dans les zones rurales et à des coûts accessibles aux populations ;
+
+la libéralisation à court terme du réseau fixe et l’accès à l’international en 2004 ;
+
+l’autorisation d’établissement et d’exploitation de réseaux indépendants pour les groupes fermés d’utilisateurs.
+
+Désormais partie intégrante de l’économie de marché, ce secteur doit s’adapter aux mutations socio-économiques qui résultent du développement général du pays. En même temps, il doit assurer son intégration dans un ensemble de réseaux pour :
+
+d’une part, assurer le service universel à l’ensemble du territoire national et à toutes les couches de la population ;
+
+et, d’autre part, mettre les opérateurs économiques en position favorable dans la compétition internationale.
+
+Il s’y ajoute que la libéralisation du secteur des télécommunications et la mise en place d’un cadre juridique assurant visibilité et sécurité aux opérateurs constituent, à n’en pas douter, non seulement une importante source de rentrées financières pour l’Etat mais également un attrait des investisseurs privés, étrangers notamment.
+
+Dans cette perspective, il a paru nécessaire de procéder à une refonte du code des télécommunications en vigueur.
+
+L’objet du présent projet de code est de définir le cadre juridique régissant le nouveau paysage du secteur des télécommunications, notamment celui des réseaux des télécommunications qui pourront être exploités par des personnes morales privées détentrices d’une licence qui sera accordée par décret, sachant que l’Etat fixe les orientations générales du secteur des télécommunications, et l’autorité gouvernementale compétente veille à leur respect et à leur application. Un accent particulier a été mis sur la participation des exploitants de réseaux publics de télécommunications aux missions et charges de développement du service universel, notamment par leur contribution au financement desdites missions et charges.
+
+Ainsi, le présent projet code des télécommunications apporte d’importantes innovations.
+
+En premier lieu, il clarifie les principes de base gouvernant la gestion du secteur des télécommunications et précise, en les complétant, les définitions technico-juridiques des expressions utilisées. Il en est ainsi des infrastructures alternatives qui ont été intégrées dans le nouveau projet de code. Les grands principes qui régiront désormais les activités de télécommunications sont les suivants :
+
+la transparence ;
+
+la concurrence saine et loyale ;
+
+l’égalité de traitement des usagers ;
+
+le respect du secret des correspondances ;
+
+le respect des conditions d’un réseau ouvert ;
+
+la contribution des opérateurs aux missions et charges de développement du service universel des télécommunications ;
+
+le respect des accords et traités internationaux en matière de télécommunications ;
+
+et l’interconnexion équitable des réseaux.
+
+En deuxième lieu, les régimes juridiques font l’objet d’une typologie plus cohérente. Ainsi, à côté du régime des réseaux et installations libres, sont retenus quatre types de régimes juridiques applicables aux réseaux, services et équipements de télécommunications : la licence, l’autorisation, l’agrément et la déclaration.
+
+En troisième lieu, les mutations en cours et à venir appellent la mise en place d’un organe indépendant de régulation susceptible de garantir l’exercice d’une concurrence saine et loyale, au bénéfice des consommateurs, des opérateurs du secteur et, en général, de l’économie globale.
+
+Le nouvel organe, dénommé Agence de Régulation des Télécommunications, en abrégé A.R.T., se fixe les objectifs suivants :
+
+doter le secteur des télécommunications d’un cadre réglementaire efficace et transparent, favorisant une concurrence loyale au bénéfice des utilisateurs des réseaux et services des télécommunications ;
+
+poursuivre le développement de ces réseaux et services en favorisant les initiatives tendant à les adapter à l’évolution des technologies et au progrès scientifique ;
+
+fournir un service public sur l’ensemble du territoire national et à toutes les couches de la population et ce, dans le cadre du plan de développement économique et social ;
+
+offrir à l’économie nationale les moyens de communication basés sur des technologies en constante évolution de façon à accroître son ouverture et son intégration dans l’économie mondiale ;
+
+favoriser la création d’emplois directement ou indirectement liés au secteur.
+
+Eu égard à la mission principale de l’Autorité, qui consiste en l’application de l’ensemble des dispositions juridiques, économiques et techniques permettant aux activités des télécommunications de s’exercer effectivement, le choix de sa forme juridique s’est porté sur l’établissement public de catégorie particulière. Ce qui constitue une dérogation à la loi 90-07 du 26 juin 1990 qui organise le secteur parapublic.
+
+Outre ses fonctions de règlement de différends par la conciliation, la médiation ou l’arbitrage, l’Autorité sera également chargée de veiller à l’application de ses décisions et au respect des dispositions relatives au principe d’égalité de traitement et de libre concurrence dans le secteur des télécommunications.
+
+En dernier lieu, le présent projet de loi précise et renforce les sanctions pénales applicables.
+
+Telle est l’économie du présent projet de loi soumis à votre appréciation.
+
+## TITRE PREMIER — DISPOSITIONS GENERALES
+
+### CHAPITRE PREMIER — CHAMP D’APPLICATION
+
+##### Article PREMIER
+
+Le présent code régit toutes les activités de télécommunications exercées sur le territoire sénégalais.
+
+Sont exclues du champ d’application du présent code les installations de l’Etat établies pour les besoins de la sécurité et de la défense nationale ou pour les besoins des administrations de l’Etat. Un décret fixera la réglementation applicable aux dites installations.
+
+### CHAPITRE II — DÉFINITIONS ET PRINCIPES
+
+#### SECTION I — DEFINITIONS
+
+##### Article 2
+
+Au sens du présent code, les expressions ci-dessous sont définies comme suit :
+
+1) Autorité gouvernementale compétente : l’autorité gouvernementale désignée par décret pour fixer pour le compte de l’Etat, les orientations générales et les politiques en matière de télécommunications.
+
+2) Agence de Régulation des Télécommunications « ART » : institution de droit public créée par le présent code dotée de la personnalité juridique et de l’autonomie financière et chargée, pour le compte de l’Etat, de la veille technologique, de l’application de la réglementation, et du développement et de la promotion du secteur des télécommunications et des technologies de l’information.
+
+3) Licence de télécommunications : droit attribué par décret d’établir et/ou d’exploiter un réseau de télécommunications ouvert au public et/ou de fournir des services de télécommunications au public conformément aux dispositions du présent code.
+
+4) Télécommunication : toute transmission, émission ou réception de signes, de signaux, d’écrits, d’images, de sons ou de renseignements de toute nature par fil, radioélectricité, optique ou autres systèmes électromagnétiques.
+
+5) Réseau de télécommunication : toute installation ou tout ensemble d’installations assurant soit la transmission, soit la transmission et l’acheminement de signaux de télécommunications ainsi que l’échange d’informations, de commande et de gestion qui y est associé, entre les points de terminaison de ce réseau.
+
+6) Infrastructure alternative : toute installation ou ensemble d’installations pouvant assurer ou contribuer à assurer soit la transmission soit la transmission et l’acheminement de signaux de télécommunications sans les équipements actifs qui les transforment en réseau de télécommunications.
+
+7) Exploitant de réseau public de télécommunications : toute personne morale qui exploite un réseau de télécommunications ouvert au public et qui fournit au public un service de télécommunications.
+
+8) Exploitants d’infrastructures alternatives : les personnes morales de droit public et les sociétés concessionnaires de service public disposant d’infrastructures ou de droits pouvant supporter ou contribuer à supporter des réseaux de télécommunications, sans qu’elles puissent exercer par elles-mêmes les activités d’exploitant de réseau de télécommunications ouvert au public.
+
+9) Groupe fermé d’utilisateurs : une communauté d’intérêt suffisamment stable pour être identifiée et préexistante à la fourniture d’un service de télécommunications ou à l’établissement d’un réseau indépendant.
+
+10) Réseau indépendant : un réseau de télécommunications réservé à un usage privé ou partagé. Un réseau indépendant est appelé à usage privé lorsqu’il est réservé à l’usage de la personne physique ou morale qui l’établit et à usage partagé, lorsqu’il est réservé à l’usage de plusieurs personnes physiques ou morales constituées en un ou plusieurs groupes fermés d’utilisateurs, en vue d’échanger des communications internes au sein d’un même groupe.
+
+11) Réseau interne : un réseau indépendant entièrement établi sur une même propriété sans emprunter ni le domaine public, y compris hertzien, ni une propriété tierce.
+
+12) Télédistribution : la transmission ou la retransmission de signaux de radiodiffusion, reçue par satellite ou par un système de terre approprié ou produit localement, à des abonnés, à travers un réseau câblé ou hertzien.
+
+13) Réseau de télédistribution : le réseau câblé ou hertzien au moyen duquel les signaux reçus ou produits localement sont transmis ou retransmis aux terminaux d’abonnés. Il s’agit d’un réseau ouvert au public.
+
+14) Réseau public : l’ensemble des réseaux de télécommunications établis ou utilisés par une entreprise de télécommunications pour les besoins du public.
+
+15) Réseau radioélectrique : toute installation qui utilise les fréquences hertziennes pour la propagation des ondes en espace libre. Au nombre des réseaux radioélectriques, figurent notamment les réseaux utilisant les systèmes satellitaires.
+
+16) Point de terminaison : le point de connexion physique répondant à des spécifications techniques nécessaires pour avoir accès à un réseau de télécommunications et communiquer efficacement par son intermédiaire. Il fait partie intégrante du réseau et ne constitue pas en soi un réseau de télécommunications. Lorsqu’un réseau de télécommunications est connecté à un réseau étranger, les points de connexion à ce réseau sont considérés comme des points de terminaison. Lorsqu’un réseau de télécommunications est destiné à transmettre des signaux vers des installations de radiodiffusion, les points de connexion à ces installations sont considérés comme des points de terminaison.
+
+17) Service de télécommunications : toute prestation incluant la transmission ou l’acheminement de signaux ou une combinaison de ces fonctions par des procédés de télécommunications. Ne sont pas concernés les services de radiodiffusion et de télévision.
+
+18) Service téléphonique : l’exploitation commerciale du transfert direct de la voix en temps réel entre des utilisateurs raccordés aux points de terminaison d’un réseau de télécommunications.
+
+19) Service télex : l’exploitation commerciale du transfert direct, en temps, réel, par échange de signaux de nature télégraphique, de messages dactylographiés entre des utilisateurs raccordés aux points de terminaison d’un réseau de télécommunications.
+
+20) Service de communication de données par commutation par paquets : l’exploitation commerciale du transfert direct de données en temps réel entre des utilisateurs raccordés aux points de terminaison d’un réseau de transmission de données par paquets.
+
+21) Services à valeur ajoutée : tous services de télécommunications qui, n’étant pas des services de diffusion et utilisant des services supports ou les services de télécommunications finales, ajoutent d’autres services au service support ou répondent à de nouveaux besoins spécifiques de télécommunications.
+
+22) Service de radiocommunication : tout service impliquant la transmission, l’émission ou la réception d’ondes radioélectriques à des fins spécifiques de télécommunications.
+
+23) Service de radiodiffusion : un service de radiocommunication dont les émissions sont destinées à être reçues directement par le grand public. Ce service peut comprendre des émissions sonores, des émissions de télévision ou d’autres genres d’émission.
+
+24) Service support : un service de simple transport de données dont l’objet est soit de transmettre, soit de retransmettre et d’acheminer des signaux entre les points de terminaison d’un réseau de télécommunications, sans faire subir à ces signaux de traitements autres que ceux nécessaires à leur transmission, à leur acheminement et au contrôle de ces fonctions.
+
+25) Equipement terminal : tout équipement destiné à être connecté directement ou indirectement à un point de terminaison d’un réseau en vue de la transmission, du traitement ou de la réception d’informations. Ne sont pas visés les équipements permettant d’accéder à des services de communications audiovisuelles diffusés par voie hertzienne ou distribués par câble, sauf dans le cas où ils permettent d’accéder également à des services de télécommunications.
+
+26) Spectre des fréquences radioélectriques : ensemble des ondes radioélectriques dont la fréquence est comprise entre 3 KHz et 3.000 GHz.
+
+27) Gestion du spectre des fréquences radioélectriques : l’ensemble des actions administratives et techniques visant à assurer une utilisation rationnelle du spectre des fréquences radioélectriques par les utilisateurs.
+
+28) Station radioélectrique : un ou plusieurs émetteurs ou récepteurs ou un ensemble d’émetteurs et de récepteurs, y compris les appareils accessoires, nécessaires pour assurer un service de radiocommunication en un emplacement donné.
+
+29) Station de réception de la radiodiffusion : toute station terrienne, hertzienne ou en ondes métriques et décimétriques, destinée à recevoir les signaux de radiodiffusion transmis par satellite, par faisceaux hertziens ou par un émetteur terrestre de radiodiffusion.
+
+30) Assignation d’une fréquence ou d’un canal radioélectrique : l’autorisation donnée pour l’utilisation par une station radioélectrique d’une fréquence ou d’un canal radioélectrique déterminé selon des conditions spécifiées.
+
+31) Prestation de cryptologie : toute prestation visant à transformer à l’aide de codes secrets des informations ou des signaux clairs en informations ou signaux inintelligibles pour des tiers ou à réaliser l’opération inverse, grâce à des moyens, matériels ou logiciels conçus à cet effet.
+
+32) Exigences essentielles : les exigences nécessaires pour garantir dans l’intérêt général, la sécurité des usagers et du personnel des exploitants de réseaux de télécommunications, la protection des réseaux et notamment des échanges d’informations de commande et de gestion qui y sont associés, le cas échéant, la bonne utilisation du spectre radioélectrique ainsi que dans les cas justifiés, l’interopérabilité des services et celle des équipements terminaux et la protection des données.
+
+33) Interopérabilité : l’aptitude de ces équipements à fonctionner, d’une part avec le réseau et, d’autre part, avec les autres réseaux et équipements terminaux.
+
+34) Télégraphie : toute forme de télécommunication qui intervient dans toute opération assurant la transmission et la reproduction à distance du contenu de tout document, tel qu’un écrit, un imprimé ou une image fixe ou bien la reproduction à distance de tous genres d’informations sous cette forme.
+
+35) Interconnexion : les prestations réciproques offertes par deux exploitants de réseaux ouverts au public ou les prestations offertes par un exploitant de réseau ouvert au public à un prestataire de service téléphonique au public, qui permettent à l’ensemble des utilisateurs de communiquer librement entre eux, quels que soient les réseaux auxquels ils sont raccordés ou les services qu’ils utilisent.
+
+36) Service universel : mise à la disposition de tous d’un service minimum consistant en un service téléphonique d’une qualité spécifiée à un prix abordable, ainsi que l’acheminement des appels d’urgence, la fourniture du service de renseignement et d’un annuaire d’abonnés, sous forme imprimée ou électronique et la desserte du territoire national en cabines téléphoniques installées sur le domaine public et ce, dans le respect des principes d’égalité, de continuité, d’universalité et d’adaptabilité.
+
+37) Position dominante : Est présumé exercer une telle influence tout opérateur qui détient une part supérieure à 25% du marché des télécommunications. Il peut être tenu compte également du chiffre d’affaires de l’opérateur par rapport à la taille du marché, de son contrôle des moyens d’accès à l’utilisateur final, de son accès aux ressources financières et de son expérience dans la fourniture de produits et de services de télécommunications.
+
+#### SECTION II — PRINCIPES GÉNÉRAUX
+
+##### Article 3
+
+La réorganisation du secteur des télécommunications se fixe comme objectifs :
+
+de doter le secteur des télécommunications d’un cadre juridique efficace et transparent favorisant une concurrence loyale au bénéfice des utilisateurs des réseaux et services des télécommunications ;
+
+d’accroître et de poursuivre le développement de ces réseaux et services en favorisant les initiatives tendant à les adapter à l’évolution des technologies et aux progrès scientifiques ;
+
+de fournir un service public sur l’ensemble du territoire du Sénégal et à toutes les couches de la population et ce, dans la perspective du développement économique et social ;
+
+d’offrir à l’économie nationale les moyens de communication basés sur des technologies en constante évolution de façon à accroître son ouverture et son intégration dans l’économie mondiale ;
+
+de favoriser la création d’emplois directement ou indirectement liée au secteur.
+
+##### Article 4
+
+L’exploitation des réseaux de télécommunications ouverts au public s’effectue dans des conditions transparentes. Les exploitants desdits réseaux doivent tenir une comptabilité analytique permettant de déterminer les coûts, produits et résultats de chaque réseau exploité ou chaque service offert. Les comptes et les états de synthèse, dégagés au plus tard dans les trois mois suivant la date de clôture de l’exercice comptable, sont soumis annuellement pour audit, à leur propre frais, à un organisme désigné par l’ART. Ledit audit a pour objet de s’assurer que les états de synthèse présentés reflètent de manière régulière et sincère les coûts, produits et résultats de chaque réseau exploité ou de chaque service offert.
+
+##### Article 5
+
+L’exploitation des réseaux de télécommunications ouverts au public doit se faire dans des conditions de concurrence loyale conformément à la législation en vigueur ou à défaut, en conformité avec les usages internationaux admis en matière de télécommunications.
+
+Ces conditions concernent l’ensemble des mesures destinées à empêcher les exploitants d’adopter ou de maintenir des pratiques anticoncurrentielles telles que :
+
+les subventions croisées à caractère anticoncurrentiel ;
+
+l’utilisation des renseignements obtenus auprès de concurrents à des fins de concurrence déloyale ;
+
+le refus de mettre à la disposition des autres exploitants autorisés, en temps opportun, les renseignements techniques sur les installations essentielles et les renseignements commerciaux pertinents qui leur sont nécessaires pour la fourniture des services ;
+
+les mesures en matière d’exploitation de réseau pouvant porter atteinte à la qualité de service des réseaux concurrents ;
+
+l’abus de position dominante.
+
+Est prohibée l’utilisation abusive par une entreprise ou un groupe d’entreprise d’une position dominante sur le marché intérieur ou une partie substantielle de celui-ci ou de l’état de dépendance dans lequel se trouve à son égard un client ou un fournisseur qui ne dispose pas de solutions de substitution.
+
+Les exploitants de réseaux de télécommunications ouverts au public fournissent les services dans des conditions de transparence et de non-discrimination et dans les mêmes conditions que celles accordées à leurs filiales ou à leurs associés.
+
+En cas de pratiques anticoncurrentielles dans le secteur des télécommunications et par dérogation à l’article 9 de la loi n° 94-63 du 22 août 1994, les opérateurs saisissent l’ART de ces pratiques. L’ART rend une décision sur la réalité de ces pratiques anticoncurrentielles après avoir entendu l’ensemble des acteurs économiques concernés. La décision de l’ART peut être contestée devant le Conseil d’Etat.
+
+##### Article 6
+
+Les exploitants des réseaux de télécommunications ouverts au public doivent respecter le principe d’égalité de traitement des usagers. L’accès de ces derniers aux réseaux de télécommunications ouverts au public doit être assuré dans des conditions objectives, transparentes et non discriminatoires. Les tarifs de raccordement, d’abonnement et des communications doivent respecter le principe d’égalité de traitement des usagers et être établis de manière à éviter une discrimination fondée sur la localisation géographique.
+
+Toutefois, en cas de difficultés exceptionnelles, pour effectuer le raccordement de certains abonnés, les exploitants doivent prévoir dans leur catalogue, les prix, les conditions et les tarifs de tels raccordements.
+
+Les tarifs applicables aux prestations relatives au service universel ne peuvent excéder les tarifs maxima fixés pour lesdites prestations par l’ART.
+
+Les exploitants sont tenus de rendre ces services dans les meilleures conditions économiques au bénéfice des consommateurs.
+
+##### Article 7
+
+Les exploitants des réseaux de télécommunications ouverts au public et les fournisseurs au public de services de télécommunications, ainsi que les membres de leur personnel sont tenus au secret des correspondances et à la continuité de la prestation sous peine de poursuites judiciaires conformément à l’article 167 du code pénal.
+
+Ils doivent en outre assurer aux consommateurs et utilisateurs de leur réseau des conditions optimales de confidentialité et de neutralité du service au regard des messages transmis et de protection de la vie privée et des données nominatives.
+
+A ce titre, les exploitants sont tenus de se conformer à la législation en vigueur relative au secret des communications et des messages et à la protection de la vie privée des personnes. Il ne peut être dérogé à cette règle que dans les conditions prévues par la loi.
+
+##### Article 8
+
+Les exploitants de réseaux de télécommunications ouverts au public ont l’obligation de respecter les conditions de fourniture au public de services de télécommunications. Ces conditions sont fixées par voie de décret et concernent :
+
+l’adaptation des interfaces techniques y compris, le cas échéant, la définition et la mise en œuvre des points de terminaison du réseau ;
+
+les conditions d’utilisation y compris, le cas échéant, l’accès aux fréquences radioélectriques ;
+
+les principes de la tarification.
+
+##### Article 9
+
+Les exploitants de réseaux de télécommunications ouverts au public participent concurremment aux missions et charges de développement du service universel et contribuent au financement desdites missions et charges.
+
+Le montant de cette contribution est un pourcentage fixé par décret du chiffre d’affaires hors taxes net des frais d’interconnexion réglés entre exploitants de réseaux publics de télécommunications. Toutefois, ce pourcentage devra décroître au fur et à mesure de la mise en œuvre par l’ART des appels à la concurrence pour la prise en charge partielle ou totale des prestations du service universel.
+
+La contribution visée ci-dessus est collectée par l’ART et versée au Fonds de développement du service universel des télécommunications créé auprès de cette dernière.
+
+Le recouvrement de cette contribution s’effectuera conformément à la législation relative au recouvrement des créances publiques de l’Etat.
+
+Un décret fixe les modalités de développement du service universel des télécommunications ainsi que les règles d’organisation et de fonctionnement du service universel visé ci-dessus.
+
+##### Article 10
+
+Les exploitants des réseaux de télécommunications ouverts au public sont tenus de respecter les conventions et les accords internationaux en matière de télécommunications et notamment les conventions, règlements et arrangements de l’Union Internationale des Télécommunications et des organisations restreintes ou régionales de télécommunications auxquels adhère le Sénégal.
+
+##### Article 11
+
+Les exploitants des réseaux de télécommunications ouverts au public ont le droit de réaliser les travaux nécessaires à l’exploitation et à l’extension de leur réseau. Ils sont tenus de respecter l’ensemble des dispositions législatives et réglementaires en vigueur, notamment en matière d’aménagement du territoire et de protection de l’environnement à l’occasion de la réalisation d’installations, d’équipements ou d’ouvrages particuliers.
+
+##### Article 12
+
+Les exploitants des réseaux de télécommunications ouverts au public bénéficient du droit d’accéder à tous les points hauts existants, sous réserve du respect des servitudes radioélectriques, de la disponibilité de l’espace nécessaire et de la prise en charge d’une part raisonnable des frais d’occupation des lieux. Le co-implantation ou le partage des installations en point haut fait l’objet d’accords commerciaux et techniques entre les parties concernées. Ces accords sont transmis pour information à l’ART.
+
+Les litiges relatifs aux conditions d’exécution de ces accords sont soumis à l’ART qui rend une décision qui peut être contestée devant le Conseil d’Etat.
+
+##### Article 13
+
+L’interconnexion entre les différents réseaux de télécommunications doit être faite par des contrats de droit commun librement négociés entre les différents exploitants de réseaux de télécommunications ouverts au public dans des conditions réglementaires, techniques et financières, objectives et non discriminatoires qui assurent des conditions de concurrence loyale.
+
+L’ART est chargée de veiller au respect des dispositions qui précèdent et tranche les litiges relatifs à l’interconnexion. Les décisions de l’ART peuvent être contestées devant le Conseil d’Etat.
+
+Un décret fixe les conditions générales techniques et financières d’interconnexion des réseaux de télécommunications ouverts au public ainsi que les procédures d’arbitrage des litiges entre les exploitants des réseaux de télécommunications ouverts au public.
+
+##### Article 14
+
+Le spectre des fréquences radioélectriques fait partie du domaine public de l’Etat. L’assignation de fréquences radioélectriques est soumise au paiement de redevances conformément à la réglementation en vigueur. Un décret fixe les conditions d’utilisation des fréquences radioélectriques ainsi que les redevances s’y rapportant.
+
+##### Article 15
+
+Le plan national de numérotation est fixé par l’ART.
+
+L’attribution des ressources en numérotation se déroule de manière transparente, non discriminatoire et objective. Elle est assujettie au paiement de redevances.
+
+Un décret fixe les modalités de gestion du plan national de numérotation, les conditions d’utilisation des ressources en numérotation ainsi que les redevances s’y rapportant.
+
+## TITRE II — DES REGIMES JURIDIQUES DES ACTIVITES DE TELECOMMUNICATIONS
+
+##### Article 16
+
+Sont soumis à licence l’établissement et/ou l’exploitation de tout réseau de télécommunications ouvert au public.
+
+##### Article 17
+
+Sont soumis à autorisation l’établissement et l’exploitation de réseaux indépendants. Un réseau indépendant ne peut être connecté au réseau public qu’en un seul point lorsqu’il est exclusivement établi sur le territoire national. Sauf autorisation spéciale de l’ART, il ne peut en aucun cas être raccordé à un réseau ouvert au public lorsqu’un des points du réseau est en dehors du territoire national.
+
+##### Article 18
+
+Sont soumis à agrément :
+
+les installations radioélectriques ;
+
+les équipements terminaux qui sont destinés à être raccordés à un réseau de télécommunications ouvert au public ;
+
+les laboratoires d’essais et mesures des équipements de télécommunications ;
+
+les installateurs d’équipements radioélectriques.
+
+##### Article 19
+
+Est soumise à déclaration la fourniture de services à valeur ajoutée utilisant les capacités disponibles des réseaux de télécommunications ouverts au public. L’ART détermine les catégories de services à valeur ajoutée soumis à cette obligation de déclaration.
+
+##### Article 20
+
+Sont établis librement les réseaux internes et les installations radioélectriques exclusivement composées d’appareils de faible puissance et de faible portée. Les catégories desdits appareils sont déterminées par l’ART.
+
+### Chapitre I — DU RÉGIME DES LICENCES
+
+##### Article 21
+
+La licence d’établissement et/ou d’exploitation de réseaux de télécommunications ouverts au public est un droit attribué par décret portant approbation d’une convention de concession et d’un cahier des charges.
+
+La convention de concession fixe l’objet et la durée de la licence, les conditions et les procédures de son renouvellement, de la modification de ses termes et de sa fin ainsi que les dispositions relatives au règlement des litiges.
+
+Le cahier des charges fixe les conditions d’établissement et d’exploitation du réseau et de fourniture de services de télécommunications ainsi que les engagements du titulaire de la licence.
+
+La licence est délivrée à toute personne morale adjudicataire d’un appel à la concurrence et qui s’engage à respecter les dispositions du présent code ainsi que les clauses d’un cahier des charges réglementant les conditions générales d’établissement et d’exploitation des réseaux de télécommunications ouverts au public.
+
+La procédure de l’appel à la concurrence est assurée par l’ART. Elle comprend au moins les étapes suivantes :
+
+1) lancement de l’appel d’offres ;
+
+2) réception des soumissions ;
+
+3) dépouillement et évaluation des offres ;
+
+4) adjudication de la licence.
+
+Le titulaire d’une licence est assujetti au paiement d’une contrepartie financière, de redevances et contributions, dont les modalités seront précisées dans le cahier des charges précité.
+
+##### Article 22
+
+Les conditions générales d’établissement et d’exploitation visées à l’article précédent concernent :
+
+la concurrence loyale ;
+
+l’obligation de tenir des comptes financiers autonomes pour chaque réseau et/ou service exploité ;
+
+les conditions de confidentialité et de neutralité du service au regard des messages transmis ;
+
+les prescriptions exigées par la défense nationale et la sécurité publique et les prérogatives de l’autorité judiciaire ;
+
+les modalités de contribution aux missions générales de l’Etat et, en particulier, aux missions et charges du service universel et de l’aménagement du territoire ;
+
+les dispositions relatives à la protection de l’environnement, à l’occupation du domaine public et au partage des infrastructures ;
+
+les conditions de fourniture des informations nécessaires à la réalisation de l’annuaire général des abonnés ;
+
+l’obligation de respecter les accords et les conventions internationaux ratifiés par la République du Sénégal ;
+
+l’obligation d’acheminer gratuitement les appels d’urgence ;
+
+les conditions de fourniture des informations à l’ART ;
+
+les conditions nécessaires pour assurer l’interopérabilité des services ;
+
+les obligations permettant le contrôle du respect du cahier des charges ;
+
+la contribution à la recherche, à la formation et à la normalisation en matière de télécommunications.
+
+Un décret précise le contenu des conditions générales d’établissement et d’exploitation des réseaux de télécommunications ouverts au public.
+
+##### Article 23
+
+Pour chaque appel à la concurrence ayant pour objet de proposer l’établissement et/ou l’exploitation d’un réseau de télécommunications ouvert au public ou la fourniture d’un service de télécommunications déterminé, en plus des conditions générales d’établissement et d’exploitation énumérées à l’article précédent, l’ART fixe dans un cahier des charges :
+
+les conditions de permanence, de qualité, de disponibilité et modes d’accès du réseau et des services ;
+
+la nature et les caractéristiques de la zone de couverture ainsi que le calendrier de déploiement du réseau et des services ;
+
+les normes et les spécifications du réseau et des services ;
+
+les fréquences radioélectriques et les blocs de numéros attribués, les conditions de leur utilisation ainsi que les redevances s’y rapportant ;
+
+les qualifications professionnelles et techniques minimales ainsi que les garanties financières exigées des demandeurs ;
+
+les obligations de fourniture du service universel et le respect du principe d’égalité de traitement des usagers ;
+
+la durée de validité de la licence et ses conditions de renouvellement ;
+
+les modalités de paiement de la contrepartie financière ;
+
+les droits et obligations en matière d’interconnexion.
+
+L’ART prépare et met en œuvre les procédures d’attribution de licences par appel à la concurrence. Elle instruit les soumissions et les déclarations préalables pour les activités de télécommunications relevant du régime des licences.
+
+Elle propose, dans un rapport public, comme adjudicataire, le candidat dont l’offre est jugée la meilleure par rapport à l’ensemble des prescriptions du cahier des charges.
+
+##### Article 24
+
+Les licences délivrées par décret en application du présent chapitre sont personnelles. Elles ne peuvent être cédées à un tiers que par décret. Cette cession implique la poursuite du respect de l’ensemble des dispositions de la licence.
+
+Le décret est publié au Journal officiel et notifié à l’adjudicataire dans un délai maximum de deux mois.
+
+##### Article 25
+
+Lorsque le titulaire d’une licence d’établissement et d’exploitation d’un réseau de télécommunications ouvert au public ne respecte pas les obligations qui lui sont imposées par les textes législatifs et réglementaires, par la Convention de Concession et par son cahier des charges, le Directeur général de l’ART le met en demeure de s’y conformer dans un délai de trente jours.
+
+Si le titulaire ne se conforme ni à la mise en demeure qui lui a été adressée ni aux conditions de la licence, le Directeur général de l’ART prononce, après avoir invité le titulaire à formuler ses observations, par décision motivée, à son encontre et à sa charge, une pénalité d’un maximum de 3 % du chiffre d’affaires tel que déclaré dans l’exercice comptable de l’année précédente. Ce plafond peut être doublé en cas de récidive.
+
+Le montant de la pénalité doit être fixé en fonction de la gravité des manquements commis et en relation avec les avantages ou les profits tirés de ces manquements.
+
+Si la violation constatée et notifiée persiste, le Président de la République prononce par décret, sur proposition motivée du Directeur général de l’ART et après avis du Conseil de la régulation, soit :
+
+la suspension totale ou partielle de ladite licence pour une durée de trente jours au plus ;
+
+la suspension temporaire de ladite licence ou la réduction de la durée de cette dernière dans la limite d’une année ;
+
+le retrait définitif de ladite licence.
+
+### Chapitre II — DU RÉGIME DES AUTORISATIONS ARTICLE 26
+
+Les réseaux indépendants peuvent être établis et exploités par toute personne physique ou morale sous réserve de l’obtention d’une autorisation délivrée par l’ART.
+
+Cette autorisation ne peut être délivrée que si lesdits réseaux ne perturbent pas le fonctionnement technique des réseaux existants. Elle est soumise au paiement de redevances dont le montant est fixé par l’ART.
+
+L’autorisation doit être notifiée au bénéficiaire dans un délai ne dépassant pas les deux mois à compter de la date de la demande.
+
+Tout refus d’autorisation doit être motivé.
+
+L’ART définit les conditions de délivrance des autorisations des réseaux précités et précise les conditions dans lesquelles lesdits réseaux peuvent être, le cas échéant, connectés à un réseau de télécommunications ouvert au public et ce, sans permettre l’échange de communications entre personnes autres que celles auxquelles l’usage du réseau est réservé.
+
+### Chapitre III — DU RÉGIME DES AGRÉMENTS
+
+##### Article 27
+
+Les équipements terminaux sont fournis librement. Toutefois, lorsqu’ils sont destinés à être connectés à un réseau de télécommunications ouvert au public, ils doivent faire l’objet d’un agrément préalable délivré par l’ART ou par un laboratoire d’essais et de mesures d’équipements des télécommunications lui-même agréé par l’ART. L’agrément est exigé dans tous les cas pour les équipements radioélectriques, qu’ils soient destinés ou non à être connectés à un réseau de télécommunications ouvert au public. Les installations radioélectriques et les équipements terminaux doivent, à tout moment, demeurer conformes au modèle agréé.
+
+L’agrément doit être notifié au bénéficiaire dans un délai ne dépassant pas les deux mois à compter de la date de la demande. Tout refus d’agrément doit être motivé.
+
+##### Article 28
+
+Les équipements terminaux ou installations soumis à l’agrément mentionné ci-dessus ne peuvent être fabriqués pour le marché intérieur, importés, détenus en vue de la vente, mis en vente, distribués à titre gratuit ou onéreux, connectés à un réseau public de télécommunications ou faire l’objet de publicité que s’ils sont agréés au préalable par l’ART ou par un laboratoire d’essais et mesures dûment agréé à cet effet par l’ART.
+
+##### Article 29
+
+Les installateurs d’équipements radioélectriques, pour leur compte propre ou pour des tiers, doivent être agréés par l’ART.
+
+##### Article 30
+
+L’ART définit les conditions d’agrément préalable des équipements, des laboratoires et des installateurs cités ci-dessus en tenant compte de la nécessité de garantir, dans l’intérêt général :
+
+la sécurité des usagers et du personnel des exploitants ;
+
+la protection des réseaux de télécommunications ;
+
+la compatibilité de ces équipements avec d’une part, les réseaux de télécommunications ouverts au public et, d’autre part, les autres équipements terminaux permettant d’accéder à un même service ;
+
+la bonne utilisation du spectre radioélectrique.
+
+### Chapitre IV — DU RÉGIME DES DÉCLARATIONS
+
+##### Article 31
+
+L’exploitation commerciale des services à valeur ajoutée dont la liste est fixée par l’ART, peut être assurée librement par toute personne physique ou morale après avoir déposé, auprès de l’ART, une déclaration d’intention d’ouverture du service. Cette déclaration doit contenir, entre autres, les informations suivantes
+
+les modalités d’ouverture du service ;
+
+la couverture géographique ;
+
+les conditions d’accès ;
+
+la nature des prestations objet du service ;
+
+les tarifs qui seront appliqués aux usagers.
+
+Ce service doit utiliser, sous forme de location, les capacités de liaison d’un ou de plusieurs réseaux de télécommunications ouverts au public existants, sauf si le fournisseur de ce service est titulaire de la licence et désire utiliser les capacités de liaison du réseau objet de ladite licence.
+
+En cas de cession de service à valeur ajoutée ayant fait l’objet d’une déclaration, le nouvel exploitant est tenu d’informer l’ART du transfert de la propriété dans un délai de trente jours à compter de la date de cession.
+
+Le dépôt de la déclaration donne lieu au versement de redevances. L’ART définit les conditions et modalités de dépôt des déclarations et les redevances s’y rapportant.
+
+##### Article 32
+
+L’ART dispose d’un délai de deux mois à partir de la date de dépôt de la déclaration attestée par un accusé de réception pour faire savoir si elle s’oppose à l’exploitation du service à valeur ajoutée.
+
+L’opposition ne peut être motivée que par des considérations liées aux exigences de la sécurité, de l’ordre public, de la morale et des bonnes mœurs ainsi que du respect de la réglementation en vigueur.
+
+### Chapitre V — DES SANCTIONS
+
+##### Article 33
+
+Lorsque le titulaire d’une autorisation ou d’un agrément ou le souscripteur d’une déclaration ne respecte pas les obligations qui lui sont imposées par les textes législatifs et réglementaires, ainsi que par les conditions fixées à l’occasion d’attribution de fréquences radioélectriques ou par l’autorisation ou par l’agrément, le Directeur général de l’ART le met en demeure de s’y conformer dans un délai de trente jours.
+
+Si le titulaire de la licence ou de l’autorisation ou de l’agrément ou le souscripteur d’une déclaration cité à l’alinéa précédent, ne se conforme pas à la mise en demeure qui lui a été adressée, le Directeur général de l’ART prononce à son encontre et à sa charge, par une décision motivée, l’une des sanctions suivantes :
+
+une pénalité qui ne peut pas dépasser 20.000.000 FCFA lorsqu’il s’agit d’une personne morale ;
+
+une pénalité qui ne peut pas dépasser 10.000.000 FCFA lorsqu’il s’agit d’une personne physique.
+
+Le maximum de l’amende peut être doublé en cas de récidive.
+
+Si la violation constatée et notifiée persiste, le Directeur général de l’ART, après avis du Conseil de Régulation, prononce , par une décision motivée le retrait définitif de l’autorisation ou de l’agrément.
+
+Il peut, dans les mêmes conditions, mettre fin aux effets de la déclaration.
+
+##### Article 34
+
+Sans préjudice de poursuites pénales éventuelles et en cas d’atteinte à la défense nationale, à la sécurité publique, à la morale et aux bonnes mœurs, le Directeur général de l’ART est habilité, par décision motivée, après en avoir informé le Conseil de Régulation et après avoir informé le titulaire de la licence, de l’autorisation ou de l’agrément ou le souscripteur de la déclaration à présenter ses observations, à suspendre sans délai la licence, l’autorisation ou l’agrément.
+
+En outre, les équipements, objets de la licence, de l’autorisation, de l’agrément ou de la déclaration sont saisis.
+
+Le Directeur général de l’ART informe, dans les cinq jours suivants, le procureur de la république des faits qui sont susceptibles de recevoir une qualification pénale.
+
+### Chapitre VI — DU RÉGIME DES RÉSEAUX ET INSTALLATIONS LIBRES
+
+##### Article 35
+
+Sous réserve de la conformité des installations radioélectriques et, le cas échéant, des équipements terminaux aux dispositions de l’article 27 ci-dessus, peuvent être établis librement :
+
+les réseaux internes ;
+
+le réseau de télécommunications d’une entreprise commerciale comprenant plusieurs entités juridiques telles que les sociétés ou leurs filiales ou succursales établies sur le territoire national. L’usage de ce réseau doit être réservé exclusivement pour les besoins propres de ladite entreprise. L’infrastructure du réseau précité doit être obligatoirement et entièrement louée à un ou plusieurs exploitants de réseaux publics de télécommunications. A défaut, une autorisation doit être demandée conformément aux dispositions de l’article 26 ci-dessus ;
+
+les installations radioélectriques exclusivement composées d’appareils de faible puissance et de faible portée.
+
+##### Article 36
+
+Les caractéristiques et les conditions techniques d’utilisation des réseaux et des installations visées à l’article 35 ci-dessus sont déterminées par l’ART.
+
+### CHAPITRE VII — DU RÉGIME DES MOYENS OU PRESTATIONS DE CRYPTOLOGIE
+
+##### Article 37
+
+L’utilisation d’un moyen ou d’une prestation de cryptologie est :
+
+a) Libre :
+
+si le moyen ou la prestation de cryptologie ne permet pas d’assurer des fonctions de confidentialité, notamment lorsqu’il ne peut avoir comme objet que d’authentifier une communication ou d’assurer l’intégrité du message transmis,
+
+ou si le moyen ou la prestation assure des fonctions de confidentialité et n’utilise que des conventions secrètes gérées selon les procédures et par un organisme agréé dans des conditions fixées par décret ;
+
+b) Soumise à autorisation de l’ART dans les autres cas.
+
+Un décret fixe les conditions dans lesquelles est accordée l’autorisation mentionnée au a). Ce décret peut prévoir un régime simplifié d’autorisation pour certains types de matériels ou de prestations ou pour certaines catégories d’utilisateurs.
+
+### CHAPITRE VIII — DISPOSITIONS COMMUNES
+
+##### Article 38
+
+Les sanctions prononcées par l’ART ne donnent droit à aucun dédommagement de son titulaire.
+
+L’ART prend les mesures nécessaires pour faire assurer la continuité du service et protéger les intérêts des usagers en cas d’interruption de l’utilisation des réseaux et des services.
+
+##### Article 39
+
+Les pénalités ou les sanctions visées ci-dessus ne sont prononcées que lorsque les griefs retenus contre l’intéressé lui ont été notifiés et qu’il a été à même de consulter le dossier et de présenter ses justifications écrites ou verbales.
+
+Les pénalités ou les sanctions sont notifiées à l’intéressé et publiées au Journal officiel ainsi que dans les publications ou journaux désignés par l’ART. Les frais de publication sont supportés par l’intéressé. Le recouvrement des pénalités s’effectue au profit du Trésor public, conformément à la législation relative au recouvrement des créances de l’Etat.
+
+Les décisions de l’ART portant sanction peuvent faire l’objet d’un recours en annulation ou d’une demande de sursis à exécution devant le Conseil d’Etat. Le recours n’est pas suspensif.
+
+Les mesures conservatoires prises par l’ART peuvent, après leur notification, faire l’objet d’un recours en annulation devant le Conseil d’Etat.
+
+## TITRE III — DES INFRASTRUCTURES ALTERNATIVES
+
+##### Article 40
+
+Les exploitants d’infrastructures alternatives au sens de l’article 2, alinéa 8 du présent code peuvent mettre à la disposition d’un opérateur de télécommunications titulaire d’une licence, la capacité excédentaire dont ils pourraient disposer après avoir déployé des infrastructures destinées à leurs propres besoins et /ou les droits de passage sur le domaine public, les servitudes, les emprises, les ouvrages de génie civil, les artères et canalisations et les points hauts dont ils disposent.
+
+Cette mise à disposition s’effectue soit par le biais d’une participation au capital de l’exploitant concerné conformément à la réglementation en vigueur soit par voie d’une location fixée par une convention dans des conditions objectives, transparentes et non discriminatoires.
+
+Les recettes et les dépenses relatives à cette mise à disposition sont retracées au sein d’une comptabilité distincte de l’exploitant d’infrastructures alternatives.
+
+La mise à la disposition ne doit pas porter atteinte aux droits de passage que sont en droit d’obtenir les autres exploitants de réseau public de télécommunications.
+
+## TITRE IV — PRÉROGATIVES ET SERVITUDES
+
+##### Article 41
+
+Un décret précise les conditions et servitudes requises de la part des opérateurs publics et privés pour l’exercice de la mission, de service public.
+
+## TITRE V — DE L’AGENCE DE RÉGULATION DES TÉLÉCOMMUNICATIONS
+
+##### Article 42
+
+Il est créé, sous l’autorité du Président de la République, une Agence de Régulation des Télécommunications, désignée en abrégé " ART ". L’ART est un établissement public doté de la personnalité juridique et de l’autonomie financière.
+
+##### Article 43
+
+L’ART assure le contrôle de l’application de la réglementation et veille au respect des dispositions du présent code.
+
+Elle est chargée de contribuer à l’exercice de toute autre mission d’intérêt public que pourrait lui confier le Gouvernement pour le compte de l’Etat dans le secteur des télécommunications, et d’une mission générale de conseil au Président de la République et au Gouvernement dans tous les domaines relatifs au secteur des télécommunications, conformément aux orientations générales et aux politiques en matière de télécommunications définies par le Gouvernement à travers la lettre de politique générale du secteur des télécommunications.
+
+Elle est chargée de veiller sur les intérêts nationaux en matière de télécommunication et, à cette fin, elle fournit tous avis et toutes propositions concernant l’adaptation du cadre juridique du secteur des télécommunications et des technologies de l’information et elle est obligatoirement consultée sur toute action concernant lesdits domaines.
+
+A ce titre, et outre les attributions spécifiques qui lui sont dévolues par les autres dispositions du présent code, l’ART est chargée en particulier :
+
+d’élaborer à la demande du Président de la République ou de sa propre initiative les projets de textes législatifs et réglementaires visant à faire évoluer le cadre juridique, économique et sécuritaire dans lequel s’exercent les activités des télécommunications et des technologies de l’information ;
+
+de tenir à jour les conditions dans lesquelles s’exercent les activités des télécommunications ;
+
+de l’approbation des tarifs des services de télécommunications sous le régime du monopole et des tarifs du service universel ;
+
+de la représentation de l’Etat dans les organisations régionales et internationales traitant de questions de télécommunications en relation avec le Ministre chargé des affaires étrangères.
+
+##### Article 44
+
+Elle est également chargée :
+
+de veiller au respect des dispositions contenues dans les licences, les autorisations et les agréments délivrés en application du présent code ;
+
+de veiller au respect du principe d’égalité de traitement des exploitants et des fournisseurs de services de télécommunications ;
+
+de veiller au respect par les exploitants de réseaux et les fournisseurs de services de télécommunications des dispositions législatives et réglementaires relatives aux télécommunications et de prendre les sanctions consécutives au non respect de ces dernières. A cet effet, elle suit, pour le compte de l’Etat, le respect de la réglementation en vigueur et des termes des licences, des autorisations, des agréments accordés et des déclarations faites dans le secteur des télécommunications. Elle reçoit et analyse toutes les informations et documentations requises des exploitants de réseaux et services de télécommunications et, le cas échéant, demande toutes les précisions et informations complémentaires nécessaires. Pour ce faire, l’ART est habilitée a procéder, par ses agents assermentés, conformément à la législation en vigueur, à des enquêtes y compris celles qui nécessitent des interventions directes ou des branchements d’équipements externes aux réseaux ;
+
+d’arbitrer les différends entre l’Administration de l’Etat et les exploitants de réseaux et fournisseurs de services de télécommunications ainsi qu’entre exploitants de réseaux et fournisseurs de services de télécommunications ;
+
+d’instruire les plaintes des organisations de consommateurs et de suivre leur traitement par les exploitants de réseaux et fournisseurs de service.
+
+d’assurer la planification, la gestion et le contrôle du spectre des fréquences et du plan national de numérotation ;
+
+d’approuver le catalogue d’interconnexion des exploitants de réseaux ;
+
+de contribuer au développement du service universel, des industries de services à valeur ajoutée et au transfert de technologie dans le secteur des télécommunications ;
+
+de suivre le développement des nouvelles technologies de l’information et de la communication pour le compte de l’Etat ;
+
+de contribuer au développement des activités de réglementation et de régulation des télécommunications.
+
+L’ART établit chaque année la liste des opérateurs considérés comme exerçant une position dominante sur le marché des télécommunications.
+
+##### Article 45
+
+Les organes de l’ART comprennent le Conseil de Régulation et le Directeur Général.
+
+Un décret fixe les règles d’organisation et de fonctionnement de l’Agence de Régulation des Télécommunications.
+
+##### Article 46
+
+Le Conseil de Régulation délibère sur les orientations générales du plan d’action de l’ART, se prononce sur son programme annuel d’activité et donne son avis et ses recommandations sur les actions qui lui sont présentées par le Directeur général.
+
+Il se réunit, à la demande du Directeur général, aussi souvent que les circonstances l’exigent pour donner ses avis et ses recommandations sur :
+
+les projets de textes législatifs et réglementaires sur les télécommunications élaborés par le Directeur général ;
+
+les sanctions consécutives au non-respect des dispositions législatives et réglementaires sur les télécommunications que l’ART est appelée à prendre ;
+
+les litiges et différends pour lesquels il est attendu une conciliation ou un arbitrage de l’ART.
+
+Le Conseil de régulation délibère chaque année sur le rapport d’activités, le rapport de gestion et le rapport social de l’ART présentés par le Directeur général et arrête :
+
+les comptes de fin d’exercice ;
+
+les budgets et comptes prévisionnels ;
+
+les programmes pluriannuels d’actions et d’investissements ;
+
+les acquisitions et aliénations de patrimoine ;
+
+le statut applicable au personnel.
+
+##### Article 47
+
+Le Conseil de Régulation se compose de cinq membres nommés par décret et choisis en raison de leur qualification dans les domaines, technique, juridique et économique.
+
+Le Président est choisi parmi les cinq membres.
+
+La durée du mandat des membres du Conseil de Régulation est de trois ans, renouvelable une fois.
+
+Il ne peut être mis fin à leurs fonctions avant expiration de leur mandat, qu’en cas d’empêchement constaté par le Conseil d’Etat ou de manquement grave sur décision du Président de la République.
+
+La qualité de membre du Conseil de Régulation ainsi que celle de Directeur Général est incompatible avec tout intérêt personnel lié au domaine des télécommunications et des technologies de l’information.
+
+Le Directeur général de l’ART assiste aux réunions du Conseil de Régulation et y tient le rôle de rapporteur.
+
+Il exécute, par ses décisions, les délibérations du Conseil de Régulation.
+
+##### Article 48
+
+L’ART est gérée par un Directeur général nommé par décret.
+
+Le Directeur général détient tous les pouvoirs et attributions nécessaires à la gestion interne de l’ART.
+
+Il accomplit ou autorise tous actes et opérations relatifs à l’objet de l’ART dans le respect des décisions du Conseil de Régulation.
+
+Il représente l’ART vis-à-vis de l’Etat, des administrations publiques et des tiers. Il représente l’Agence en justice et peut intenter toutes actions judiciaires ayant pour objet la défense des intérêts de l’Agence, mais il doit toutefois en aviser immédiatement le Conseil de Régulation.
+
+En tant qu’ordonnateur, il engage les dépenses par acte, contrat ou marché, fait tenir la comptabilité des dépenses engagées, liquide et constate les dépenses et les recettes de l’Agence et délivre à l’agent comptable, les ordres de paiement et les titres de recettes correspondants.
+
+Le Directeur général a la qualité d’employeur au sens du Code du Travail.
+
+Il peut déléguer, pour des questions déterminées, sa signature ou partie de ses pouvoirs aux cadres occupant des postes de direction au sein de l’ART.
+
+##### Article 49
+
+Le Directeur général de l’ART établit, en fin d’exercice, un rapport annuel sur les activités de l’ART au cours de l’année écoulée. Ce rapport expose également la situation d’ensemble du secteur des télécommunications et des technologies de l’information au Sénégal du point de vue de l’application de la législation et de la réglementation en vigueur.
+
+Ce rapport est transmis au Président de la République. Il est rendu public et publié au " Journal officiel ".
+
+##### Article 50
+
+L’ART dispose des ressources suivantes :
+
+le produit des redevances perçues à l’occasion de l’étude des dossiers et de l’octroi ou du renouvellement des licences relatives à l’assignation des fréquences radioélectriques, des agréments, des concessions des services à valeur ajoutée, de l’assignation des numéros du plan national de numérotation et plus généralement, le produit de toutes autres redevances en relation avec les missions de l’ART ;
+
+un pourcentage sur le produit de la contrepartie financière due au titre de la licence dont le pourcentage est fixé par décret ;
+
+les produits et les revenus provenant de biens mobiliers et immobiliers ;
+
+les recettes des contributions des exploitants de réseaux publics de télécommunications à la recherche et à la formation ;
+
+les avances remboursables du Trésor, d’organismes publics ou privés ainsi que les emprunts autorisés conformément à la législation en vigueur ;
+
+les subventions, dons, legs et toutes autres recettes en rapport avec son activité.
+
+##### Article 51
+
+L’ART est autorisée à ouvrir des comptes bancaires administrés par le Directeur Général responsable et signataire de tout acte y relatif.
+
+Les comptes de l’ART reçoivent tout concours financier affecté à la réalisation de ses missions quelle qu’en soit l’origine.
+
+Les ressources de l’ART sont entièrement et exclusivement utilisées pour l’exécution de sa mission.
+
+##### Article 52
+
+La comptabilité de l’ART est tenue suivant les règles et les principes de la comptabilité privée.
+
+L’Agence est soumise à un contrôle interne effectué par une structure de contrôle de gestion et d’audit interne placée sous l’autorité du Directeur Général.
+
+Le contrôle externe des comptes de l’Agence est exercé par un commissaire aux comptes et par des audits confiés à des cabinets ou contrôleurs extérieurs choisis par le Conseil de Régulation.
+
+L’ART est, en outre, soumise au contrôle de la Commission de Vérification et de Contrôle des Comptes des Entreprises publiques.
+
+##### Article 53
+
+Le recouvrement des créances de l’ART s’effectue conformément à la législation relative au recouvrement des créances de l’Etat.
+
+L’ART est exonérée de tous impôts et taxes.
+
+Les excédents budgétaires dégagés par le résultat de l’exercice sont réaffectés pour 1/3 au compte du service universel, 1/3 à la formation et à la recherche et 1/3 à la promotion des nouvelles technologies de l’information.
+
+##### Article 54
+
+L’Agence de Régulation des Télécommunications peut soit d’autorité, soit à la demande d’une organisation professionnelle, d’une association agréée d’utilisateurs ou d’une personne physique ou morale concernée, sanctionner les manquements qu’elle constate de la part des exploitants de réseaux ou des fournisseurs de services de télécommunications, aux dispositions législatives et réglementaires afférentes à leur activité ou aux décisions prises pour en assurer la mise en œuvre.
+
+##### Article 55
+
+Le personnel de l’Agence de Régulation des Télécommunications, chargé d’effectuer des opérations de contrôle et de constatation par procès-verbal, des infractions commises en matière de télécommunications, est assermenté. A ce titre, il peut procéder au contrôle des équipements, à la saisie des matériels et à la fermeture des locaux sous le contrôle du Procureur de la République. Il bénéficie du concours des forces de l’ordre dans l’exercice de sa mission.
+
+Il prête serment devant le Tribunal régional de Dakar selon la formule suivante :
+
+"Je jure d’exercer mes fonctions avec probité dans le strict respect des lois et règlements".
+
+## TITRE VI — DES INFRACTIONS ET SANCTIONS PÉNALES
+
+##### Article 56
+
+Toute personne qui, par la rupture des fils, par la dégradation des appareils ou par tout autre moyen, cause volontairement l’interruption des télécommunications, est punie d’un emprisonnement de 2 à 5 ans et d’une amende de un million à trois millions de francs CFA.
+
+Sont passibles de la détention criminelle de 10 à 20 ans et d’une amende de 3 millions à 5 millions de Francs CFA, sans préjudice des peines que pourraient entraîner leur complicité avec l’insurrection, les individus qui, dans un mouvement insurrectionnel, ont détruit ou rendu impropres au service une ou plusieurs lignes de télécommunications, brisé ou détruit des appareils, envahi à l’aide de violence ou de menaces, un ou plusieurs centraux ou stations de télécommunications, ceux qui ont intercepté par tout autre moyen, avec violence ou menaces, les télécommunications ou la correspondance par télécommunication entre les divers dépositaires de l’autorité publique ou qui se sont opposés avec violence ou menaces au rétablissement des liaisons de télécommunications.
+
+##### Article 57
+
+Toute personne admise à participer à l’exécution d’un service de télécommunications qui viole le secret d’une correspondance ou qui, sans l’autorisation de l’expéditeur ou du destinataire, divulgue, publie ou utilise le contenu desdites correspondances, est punie des peines prévues par l’article 167 du Code Pénal.
+
+##### Article 58
+
+Quiconque utilise frauduleusement, à des fins personnelles ou non, un réseau public de télécommunications ou se raccorde par tout moyen sur une ligne privée, sera puni d’un emprisonnement d’un an à cinq ans et d’une amende de 1 à 3 millions de Francs CFA .
+
+##### Article 59
+
+Quiconque aura sciemment utilisé les services obtenus au moyen du délit visé à l’article précédent sera puni d’un emprisonnement de six mois à deux ans et d’une amende de 2 à 5 millions de Francs CFA.
+
+##### Article 60
+
+Sera puni d’un emprisonnement d’un an à cinq ans et d’une amende de 30 à 60 millions de Francs CFA, quiconque :
+
+1) - aura établi ou fait établir un réseau ouvert au public, sans la licence prévue à l’article 16 ou l’aura maintenu en violation d’une décision de suspension ou de retrait ;
+
+2) - aura établi ou fait établir un réseau indépendant, sans l’autorisation prévue à l’article 17, ou l’aura maintenu en violation d’une décision de retrait de cette autorisation ;
+
+3) - aura installé des équipements radioélectriques ou des équipements terminaux ou ouvert des laboratoires d’essais et de mesures des équipements de télécommunications ou exercé le métier d’installateur d’équipements radioélectriques sans l’agrément prévu à l’article 18 ou en violation d’une décision de suspension ou de retrait de cet agrément ;
+
+4) - aura fourni ou fait fournir un service à valeur ajoutée sans la déclaration prévue à l’article 18 ;
+
+5) - aura utilisé une fréquence qui ne lui a pas été préalablement assignée par l’ART.
+
+##### Article 61
+
+Sera puni d’une amende de 6 à 12 millions de Francs CFA, quiconque :
+
+aura fabriqué pour le marché intérieur, importé ou détenu en vue de la vente ou de la distribution, à titre onéreux ou gratuit, ou mis en vente des équipements terminaux non homologués, ou procédé à leur connexion à un réseau de télécommunications. La publicité en faveur de la vente des équipements terminaux non homologués est punie de même peine ;
+
+se sera abstenu d’informer l’ART des modifications apportées aux informations énoncées dans une demande d’autorisation ou dans une déclaration.
+
+Les installateurs d’équipements radioélectriques sont responsables des infractions commises par leurs agents et du paiement des amendes s’y rapportant.
+
+##### Article 62
+
+Sera puni d’un emprisonnement de trois mois à un an et d’une amende de 1 million à 10 millions de Francs CFA ou de l’une de ces deux peines seulement, quiconque :
+
+aura effectué des transmissions radioélectriques en utilisant sciemment un indicatif d’appel de la série internationale attribuée à une station de l’Etat ou de l’Administration ou à une station privée de réseau de télécommunications autorisée ;
+
+aura effectué ou fait effectué des détournement de lignes de télécommunications ou exploité des lignes de télécommunications détournées.
+
+##### Article 63
+
+Sera puni d’un emprisonnement d’un à six mois et d’une amende de un million à deux millions de Francs CFA, toute personne qui, sans intention d’interrompre les télécommunications, commet volontairement une action ayant eu pour effet d’interrompre les télécommunications.
+
+##### Article 64
+
+Quiconque soustrait frauduleusement un ou plusieurs fils conducteurs à l’occasion de sa participation directe ou indirecte à un service de télécommunications, est puni d’un emprisonnement d’un à cinq ans et d’une amende de un million à cinq millions de Francs CFA.
+
+##### Article 65
+
+Quiconque, dans les eaux territoriales ou sur le plateau continental contigu au territoire du Sénégal rompt volontairement un câble sous-marin ou lui cause ou tente de lui causer des détériorations de nature à interrompre en tout ou partie les télécommunications, sera puni d’un emprisonnement de 5 à 10 ans, et d’une amende de un million à cinq millions de Francs CFA.
+
+##### Article 66
+
+Quiconque, dans les zones maritimes visées à l’article précédent ayant rompu par maladresse, imprudence, négligence ou inobservation des règlements, un câble sous-marin, ou lui ayant causé des détériorations de nature à interrompre en tout ou partie des télécommunications, aura omis d’en faire la déclaration dans les 12 heures aux autorités locales du port sénégalais le plus proche, sera puni d’un emprisonnement d’un mois à un an, et d’une amende de un million à deux millions de Francs CFA.
+
+##### Article 67
+
+Sans préjudice de l’application du Code des Douanes, sera puni d’une amende de un million à cinq millions de Francs CFA et d’un emprisonnement d’un mois à trois mois ou de l’une de ces deux peines, quiconque aura soit exporté, soit importé un moyen de cryptologie, soit fourni ou fait fournir une prestation de cryptologie, sans autorisation.
+
+Le tribunal pourra, en outre, prononcer, au profit de l’ART, la confiscation des moyens de cryptologie.
+
+##### Article 68
+
+En cas de récidive, les peines prévues aux articles 56 à 67 ci-dessus pourront être portées au double.
+
+##### Article 69
+
+Outre les officiers et agents de police judiciaire, les employés assermentés et commissionnés à cette fin par l’ART peuvent rechercher et constater, par procès-verbal, les infractions aux dispositions du présent titre. Leurs procès-verbaux sont transmis dans les cinq jours au procureur de la République.
+
+Les procès-verbaux établis par les employés visés au premier alinéa du présent article font foi jusqu’à preuve du contraire.
+
+Ces employés peuvent accéder aux locaux, terrains ou moyens de transport à usage professionnel, demander la communication de tout document professionnel et en prendre copie, recueillir, sur convocation ou sur place, les renseignements et justifications.
+
+Ils peuvent également, sur autorisation du procureur de la République, procéder à la saisie des matériaux objet de la contravention.
+
+La demande de l’autorisation précitée doit comporter tous les éléments d’information de nature à justifier la saisie. Celle-ci s’effectue sous l’autorité et le contrôle du procureur de la république qui l’a autorisée.
+
+Les matériels saisis sont immédiatement inventoriés. L’inventaire est annexé au procès-verbal dressé sur les lieux. Les originaux du procès-verbal et de l’inventaire sont transmis au procureur de la République qui a ordonné la saisie.
+
+##### Article 70
+
+En cas de condamnation pour l’une des infractions prévues au présent titre, le tribunal peut, en outre, prononcer au profit de l’ART, la confiscation des matériaux et installations constituant le réseau de télécommunications ou permettant la fourniture du service de télécommunications ou en ordonner la destruction aux frais du condamné sur demande de l’ART.
+
+##### Article 71
+
+Les manquements aux obligations fixées par le présent code sont jugés en première instance par le Tribunal régional de Dakar.
+
+## TITRE VII — DISPOSITIONS ADMINISTRATIVES ET FINANCIÈRES
+
+### CHAPITRE I — DISPOSITIONS RELATIVES AUX BIENS
+
+##### Article 72
+
+Conformément au protocole d’accord signé le 1er mars 1999 entre l’Etat du Sénégal et la SONATEL, opérateur des télécommunications, l’ensemble des biens mobiliers et immobiliers relatifs à la gestion, à la planification et au contrôle des fréquences ainsi que le solde du compte y afférent sont transférés à l’ART.
+
+### CHAPITRE II — DISPOSITIONS FINANCIÈRES ARTICLE 73
+
+Pour le démarrage de l’ART, une subvention lui est accordée par l’Etat sous forme d’un prêt remboursable au Trésor public.
+
+### CHAPITRE III — DU PERSONNEL TRANSFERE ARTICLE 74
+
+Conformément au Protocole d’Accord entre l’Etat du Sénégal et la SONATEL, le personnel en fonction à la SONATEL assurant la planification, la gestion et le contrôle du spectre de fréquences, les agents de la SONATEL mis à la disposition de l’Etat actuellement en service dans les départements de l’Etat peuvent être transférés à l’ART.
+
+Ledit transfert doit prendre en considération les nécessités de service, l’avis du personnel concerné et la demande du Directeur général de l’ART.
+
+Le personnel transféré sera intégré au sein de l’ART dans les conditions qui seront fixées par le statut du personnel de l’ART.
+
+##### Article 75
+
+La situation conférée au personnel transféré par l’ART ne saurait, en aucun cas, être moins favorable que celle détenue par les intéressés à la date de leur transfert.
+
+Les services effectués jusqu’à présent par lesdits personnels sont considérés comme ayant été effectués au sein de l’ART.
+
+Nonobstant toutes dispositions contraires, les personnels transférés à l’ART continuent à être affiliés, pour le régime des pensions, aux caisses auxquelles ils cotisaient à la date d’entrée en vigueur du présent code.
+
+## TITRE VIII — DISPOSITIONS TRANSITOIRES
+
+##### Article 76
+
+Les titulaires de concession d’établissement et d’exploitation de réseaux de télécommunications ouverts au public et de fourniture de services de télécommunications en place à la date d’entrée en vigueur du présent code, bénéficient de plein droit de l’exploitation des réseaux et services de télécommunication qui leur ont été concédés.
+
+Ils bénéficient, en outre, des droits d’utilisation des fréquences radioélectriques relatives à l’exploitation de leurs réseaux et services visés ci-dessus. Cependant, ils sont soumis aux nouvelles conditions relatives aux licences notamment au paiement de contre partie financière, de redevances et de contributions prévues dans les cahiers de charge prévus par le présent code.
+
+Toutefois, pour les besoins de la mise en œuvre du présent code, l’ART peut procéder à des modifications des assignations de fréquences existantes.
+
+Dans un délai de six mois, un cahier des charges, approuvé par décret, fixera les nouvelles conditions dans lesquelles les services de télécommunications seront rendus.
+
+##### Article 77
+
+Les détenteurs des autorisations de réseaux indépendants sont tenus de se faire recenser par l’ART dans un délai de trois mois à compter de la date de publication du présent code. Faute de quoi, ils seront réputés avoir renoncé au bénéfice de leurs autorisations.
+
+##### Article 78
+
+Les exploitants des services à valeur ajoutée sont tenus de présenter une déclaration à l’ART dans les formes prévues par le présent code et ce, dans un délai de trois mois à partir de la date d’entrée en vigueur du présent code.
+
+## TITRE IX — DISPOSITIONS FINALES
+
+##### Article 79
+
+Sont abrogées toutes les dispositions contraires au présent code et notamment la loi N°96-03 du 22 février 1996 portant code des télécommunications et ses textes d’application.
+
+Fait à Dakar, le 22 décembre 2002
+
+Par le Président de la République :
+
+Abdoulaye WADE
+
+Le Premier Ministre :
+
+Mame Madior BOYE
